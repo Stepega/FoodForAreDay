@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_edit_profile"
+        android:title="Edit"
+        android:icon="@drawable/ic_edit"
+        android:orderInCategory="101"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_history_profile"
+        android:title="History"
+        android:icon="@drawable/ic_action_history"
+        android:orderInCategory="11"
+        app:showAsAction="always" />
+
+</menu>

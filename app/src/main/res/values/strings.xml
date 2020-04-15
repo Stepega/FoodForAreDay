@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Food for a day</string>
+    <string name="registration">Registration</string>
+    <string name="meal">Meal</string>
+    <string name="action_favorite">Favorite</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_new_reg"
+        android:title="Зареристроваться заново"
+        android:icon="@drawable/ic_action_name"
+        android:orderInCategory="99"
+        app:showAsAction="always"/>
+    <item android:id="@+id/action_save_edit_reg"
+        android:title="Зареристроваться заново"
+        android:icon="@drawable/ic_action_ok"
+        android:orderInCategory="100"
+        app:showAsAction="always"/>
+</menu>
